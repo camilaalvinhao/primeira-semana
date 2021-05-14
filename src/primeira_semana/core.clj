@@ -29,13 +29,13 @@
                               :categoria       "farmacia"
                            }
                          {
-                              :data            "18-01-2021"
+                              :data            "18/01/2021"
                               :valor           9.2
                               :estabelecimento "Indiana"
                               :categoria       "farmacia"
                               }
                          {
-                              :data            "23-01-2021"
+                              :data            "23/01/2021"
                               :valor           39.8
                               :estabelecimento "Superpao"
                               :categoria       "padaria"
